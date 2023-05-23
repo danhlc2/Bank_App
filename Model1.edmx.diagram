@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6e0d63822fa34a9e8c54ff035409c827" Name="Diagram1">
+        <EntityTypeShape EntityType="Banking_dbModel.employee" Width="1.5" PointX="4" PointY="4" />
+        <EntityTypeShape EntityType="Banking_dbModel.FD" Width="1.5" PointX="6.25" PointY="4.5" />
+        <EntityTypeShape EntityType="Banking_dbModel.userTable" Width="1.5" PointX="8.375" PointY="1.5" />
+        <EntityTypeShape EntityType="Banking_dbModel.Admin_Table" Width="1.5" PointX="2" PointY="0.75" />
+        <EntityTypeShape EntityType="Banking_dbModel.debit" Width="1.5" PointX="4.125" PointY="1" />
+        <EntityTypeShape EntityType="Banking_dbModel.Deposit" Width="1.5" PointX="2.125" PointY="3.5" />
+        <EntityTypeShape EntityType="Banking_dbModel.userAccount" Width="1.5" PointX="8.75" PointY="3.75" />
+        <EntityTypeShape EntityType="Banking_dbModel.Transfer" Width="1.5" PointX="6.25" PointY="1.875" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
