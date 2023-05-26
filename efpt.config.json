@@ -1,0 +1,69 @@
+﻿{
+   "CodeGenerationMode": 1,
+   "ContextClassName": "BankingDanhLC2Context",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Banking_Application",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Admin_Table]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Debit]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Deposit]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Employee]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FD]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Transfer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[userAccount]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[userTable]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "BLACKMSI.BankingDanhLC2",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
